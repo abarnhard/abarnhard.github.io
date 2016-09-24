@@ -27,8 +27,8 @@ disqus:
   id:               "adambarnhard"
 
 # URL
-# url:             "http://adambarnhard.com"
-url:               "localhost:4000"
+url:             "http://adambarnhard.com"
+# url:               "localhost:4000"
 baseurl:           ""
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
