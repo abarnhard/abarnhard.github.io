@@ -4,7 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Adam Barnhard
-email: adam.d.barnhard@gmail.com
+email: admbarn@gmail.com
 description: >
   Adam Barnhard's notes for and reflections about
   software development cleverly disguised as a miscellany
