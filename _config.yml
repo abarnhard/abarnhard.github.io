@@ -43,7 +43,7 @@ paginate_path:      /page:num/
 nav:
   - name:           "About"
     url:            "/about"
-  - name:           "Project"
+  - name:           "Projects"
     url:            "/projects"
 
 # Sass
