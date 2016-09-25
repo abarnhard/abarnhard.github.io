@@ -7,8 +7,8 @@ comments: true
 share: true
 ---
 
-After months of confusion about why a "Deal with It" emoticon didn't exist, I decided to create my own.
-Turns out all you need to create a gif is patience, source images, and GIMP.
+After a bit of confusion about why an animated "Deal with It" emoticon didn't already exist (I mean really, it's 2016 already)
+I went ahead and made one. Turns out all you need to create a gif is patience, source images, and GIMP.
 
 Starting with:
 
