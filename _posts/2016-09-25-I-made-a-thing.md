@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Made a thing!"
+title: "I Made a thing"
 description: "The worlds best (and first?) Deal with It emoji"
 date: 2016-09-25
 comments: true
@@ -8,7 +8,10 @@ share: true
 ---
 
 After a bit of confusion about why an animated "Deal with It" emoticon didn't already exist (I mean really, it's 2016 already)
-I went ahead and made one. Turns out all you need to create a gif is patience, source images, and GIMP.
+I used it as an excuse to learn how to gifs work. Turns out all you need to create a gif is patience, source images, and GIMP.
+
+GIMP made the process very easy, with the only caveat being you need to be sure and either not have transparency in your images
+or make sure you set the frame disposal option to to only show the current frame instead of stacking them.
 
 Starting with:
 
