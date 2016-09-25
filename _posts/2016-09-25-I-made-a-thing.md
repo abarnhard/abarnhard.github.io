@@ -21,4 +21,4 @@ And following [this tutorial](https://www.gimp.org/tutorials/Simple_Animations/)
 ![deal with it]({{ site.url }}/assets/img/deal_with_it/deal_with_it.gif "deal with it")
 
 Source .xcf file for reference if you want to play around with timing on the frames
-[this tutorial]({{ site.url }}/assets/img/deal_with_it/deal_with_it.xcf)
+[deal_with_it.xcf]({{ site.url }}/assets/img/deal_with_it/deal_with_it.xcf)
