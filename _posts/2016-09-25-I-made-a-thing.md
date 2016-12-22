@@ -1,13 +1,17 @@
 ---
 layout: post
 title: "I Made a thing"
-description: "The worlds best (and first?) Deal with It emoji"
+description: "The worlds best Deal with It emoji"
 date: 2016-09-25
 comments: true
 share: true
 ---
+UPDATE: after a bit of reflection, you can't call it the "worlds best" if it doesn't use the actual deal with it glasses
+so:
 
-After a bit of confusion about why an animated "Deal with It" emoticon didn't already exist (I mean really, it's 2016 already)
+![deal with it]({{ site.url }}/assets/img/deal_with_it/deal-with-it.gif "deal with it")
+
+After a bit of confusion about why an animated "Deal with It" emoticon didn't already exist in a google image search
 I used it as an excuse to learn how to gifs work. Turns out all you need to create a gif is patience, source images, and GIMP.
 
 GIMP made the process very easy, with the only caveat being you need to be sure and either not have transparency in your images
