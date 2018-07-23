@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Adam Barnhard. I'm a predominately JavaScript focused full stack developer.
+I'm Adam Barnhard. I'm a full stack developer building solutions predominantly with JavaScript, Ruby, & Python.
 
 This is my personal blog.
