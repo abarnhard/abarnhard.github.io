@@ -1,18 +1,16 @@
 ---
 layout: post
-title: "Javascript Callbacks"
+title: "Using Javascript Callbacks"
 description: "Synchronicity is for suckers"
 date: 2014-07-21
 comments: true
 share: true
 ---
 
-JAVASCRIPT CALLBACKS! Pain in the a#@ but not all-together terrible once you get the hang of the concept.
+One thing you need to understand about JavaScript to understand in order to use callback
+functions is JavaScript’s lexical scope.
 
-The thing you have to understand about JavaScript to understand how to use callback functions is
-actually JavaScript’s lexical scope.
-
-Think about it like this: the “return” keyword is like a synchronous callback. Observe the following code:
+Think about it like this: the “return” keyword is like a synchronous callback.
 ```javascript
 function add(x, y) {
   return x + y;
