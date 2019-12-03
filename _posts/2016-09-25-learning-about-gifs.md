@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Made a Thing"
+title: "Learning About GIFs"
 description: "Deal with It gif emoji"
 date: 2016-09-25
 comments: true
@@ -8,7 +8,7 @@ share: true
 ---
 
 After failing to find an animated "Deal with It" emoji I used it as an excuse to learn how to gifs work 
-and how to make them. In then end all you need to create a gif emoji is patience, source images, and GIMP.
+and how to make them. In then end all you need to create a gif is patience, source images, and GIMP.
 
 GIMP made the process very easy, with the only caveat being you need to be sure and either not have transparency in your images
 or make sure you set the frame disposal option to to only show the current frame instead of stacking them.
