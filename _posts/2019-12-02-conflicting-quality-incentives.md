@@ -9,7 +9,7 @@ share: true
 
 ---
 > Better to bend in the wind than to break. 
-> - Chinese proverb
+> -Chinese proverb
 
 I like the ideal of software developers as a master craftspeople, spending their careers working to create ever simpler and more elegant solutions.  
 
