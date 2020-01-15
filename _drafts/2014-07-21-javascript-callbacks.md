@@ -10,20 +10,20 @@ share: true
 One thing you need to understand about JavaScript to understand in order to use callback
 functions is JavaScript’s lexical scope.
 
-Think about it like this: the “return” keyword is like a synchronous callback.
+We can think of the “return” keyword like a synchronous callback.
 ```javascript
 function add(x, y) {
   return x + y;
 }
 var x = 5;
 var y = x + add(3, 2);
-console.log(y);
+console.log(y); // 10
 ```
 
-When we write functions that use “return” we step step in one level, do some processing, and step
-back out by returning a value from the function.
+When we write functions that use “return” we step into the function (a new frame is created on the stack), do some processing, and step
+back out (returning execution to the stack frame that called the function) by returning a value from the function.
 
-This is a synchronous programing style, because the logic runs top to bottom and has to wait for the
+This is a synchronous programing style, the logic runs top to bottom and has to wait for the
 return before it can continue (the above code waits until add() has returned the result of its calculation
 before adding that to x).
 
@@ -34,7 +34,7 @@ function so it can be called once that process has finished. Take the following:
 Client.prototype.purchase = function(symbol, qty, callBack){
   var that = this;
   qty = parseInt(qty);
-  Stock.getQuote(symbol, function(quote){
+  Stock.getQuote(symbol, function(quote) {
     if(that.cash >= quote * qty){
       that.cash -= quote * qty;
       that.portfolio.add(symbol, qty);
