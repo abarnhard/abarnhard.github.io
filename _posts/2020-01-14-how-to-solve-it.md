@@ -17,7 +17,7 @@ One approach to tackling this problem is outlined in G. Polya's book "How To Sol
 thinking about novel problems and provides a list of helpful heuristics to make solving problems easier.  
 
 ## 1. Understand The Problem
-> It is foolish to answer a question you do not understand. It is sad to work for an end that you do not desire.
+> It is foolish to answer a question you do not understand. It is sad to work for an end that you do not desire.  
 > \- G. Polya
 
 The first step, which seems obvious in theory but can be easily missed in practice, is to understand the problem you are trying to solve. In
@@ -30,7 +30,7 @@ a software engineering context this means one thing: ASK QUESTIONS.
 * Describe the things you can think of the system CAN'T or DOESN'T do, uncover assumptions stakeholders are making
 
 ## 2. Devising A Plan
-> We have a plan when we know, or know at least in outline, which calculations, computations, or constructions we have to perform in order to obtain the unknown.
+> We have a plan when we know, or know at least in outline, which calculations, computations, or constructions we have to perform in order to obtain the unknown.  
 > \- G. Polya
 
 The second step is to come up with a plan, or in other words, its time to think. Not only is it time to think, it's time to research! The odds that
@@ -48,7 +48,7 @@ This approach allows you to validate that the architecture is feasible, as well 
 early on in the development process.
 
 ## 4. Looking Back
-> By looking back at the completed solution, by reconsidering and reexamining the result and the path that led to it, they [the student] could consolidate their knowledge and develop their ability to solve problems
+> By looking back at the completed solution, by reconsidering and reexamining the result and the path that led to it, they [the student] could consolidate their knowledge and develop their ability to solve problems.  
 > \- G. Polya
 
 Reflecting on the solution is part of the process. Like red, green, refactor in TDD or the adage to "First make it work, then make it right, then make it fast", reflection is a vital part of creating good code. Writing software is simultaneously an act of creation and discovery. The odds that
